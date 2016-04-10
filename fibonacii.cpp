@@ -4,7 +4,7 @@ int main()
 {
    int t;
    cin>>t;
-   while(t--)  //to eun fot T testcase
+   while(t--)  //to run fot T testcase
    {
    	int n;
    	cin>>n;
